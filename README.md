@@ -1,14 +1,12 @@
 # AquaImob – Gestão em Condomínios
 
-![Logo do Projeto](https://drive.google.com/uc?export=view&id=0B6JvSOKmoDXnZjk1aXdabHUwTXZ1SDB1UUhtQVpWSFBabTZv)
-
 Sistema para gerenciamento de condomínios, incluindo controle de usuários, apartamentos, eventos, documentos e notificações.
 
 ---
 
 ## 📊 Modelo do Banco de Dados
 
-![Modelo Relacional]([https://drive.google.com/uc?export=view&id=0B6JvSOKmoDXnZjk1aXdabHUwTXZ1SDB1UUhtQVpWSFBabTZv](https://astraya-associacao.org/imagens/foto-banco-relacional.png?_t=1767804928)
+![Modelo Relacional](https://astraya-associacao.org/imagens/foto-banco-relacional.png?_t=1767804928)
 
 Este diagrama representa a estrutura relacional do banco de dados para o sistema **AquaImob**, desenvolvido pela **Aquarius Inc. Soluções em Tecnologia**.
 
